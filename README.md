@@ -6,7 +6,10 @@ Dashboard interativo em **HTML, Tailwind CSS e Chart.js** para acompanhamento da
  
 ## 📊 Visão geral
  
-![Dashboard Control Tower de Triagem](imagens/dashboard-dot-geral.png)
+<img width="1166" height="595" alt="Control Tower 2" src="https://github.com/user-attachments/assets/04b2a7bb-09cb-484a-8250-bbeba221d1a3" />
+
+<img width="1193" height="682" alt="Control Tower" src="https://github.com/user-attachments/assets/94019a03-861d-4a66-a8ba-6160f2879192" />
+
  
 🔗 **Demo online:** [COLE-AQUI-O-LINK-DO-GITHUB-PAGES]
  
